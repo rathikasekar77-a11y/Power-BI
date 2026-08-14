@@ -1,0 +1,8 @@
+* Transform the given 3 Different Datas in the PowerQuery
+*Restrict Data by using the KEEP THE ROWS
+*formatting the text using the Transform Data
+*Combine the Two Columns Using Merge Queries Option
+*Conditions by ADD COLUMN-Conditional Column 
+*Mergeing the Two tables using mergein as new 
+*Duplicates the Given 3 Data Set and using the group by to aplly the rules
+*Data Modelling by the visulaization and relating the Tables by Order ID and Category
